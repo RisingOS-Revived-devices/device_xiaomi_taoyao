@@ -22,4 +22,4 @@ The Xiaomi 12 lite (codenamed _"taoyao"_) is a high-end smartphone from Xiaomi. 
 
 
 
-Copyright (C) 2025 Taoyao-Labs.
+Copyright (C) 2025 Taoyao-Labs - RisingOS-Revived-Devices.
